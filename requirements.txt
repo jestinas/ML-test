@@ -1,6 +1,6 @@
 flask
 pandas
 matplotlib
-tensorflow==1.14
+tensorflow
 sklearn
-keras==2.2.5
+keras
